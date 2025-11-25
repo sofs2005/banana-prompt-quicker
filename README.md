@@ -1,18 +1,4 @@
-# 🍌 Banana Prompt Quicker
-
-> Prompts quicker is ALL you 🍌 need
-
-**被各种 Banana 案例刷屏的你还在焦虑？**
-
-**还在 Awesome Repo，论坛，二手自媒体文章里搬运复制提示词？**
-
-一个 Chrome 扩展，让你在 Google AI Studio 和 Gemini 官网快速插入热门提示词
-
-## ✨ 功能特性
-
-- 🚀 **快速插入** - 一键插入全网热门提示词（Twitter）
-- 🎯 **多平台支持** - 支持 Google AI Studio 和 Gemini 官网
-- ✏️ **自定义提示词** - 添加和管理你自己的提示词
+<img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/intro.png?raw=true" width="800">
 
 ## 📸 预览
 
@@ -41,6 +27,13 @@ https://chromewebstore.google.com/detail/banana-prompt-quicker/hgfgfocicepifboli
 <img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/install.png?raw=true" width="300">
 
 3. 访问 [Google AI Studio](https://aistudio.google.com/) 或 [Gemini](https://gemini.google.com/) 开始使用
+
+### 油猴版本
+> 注：该版本功能可能落后
+
+感谢 bxb100 的贡献 🎉
+
+https://github.com/bxb100/Scripts/raw/refs/heads/main/banana-prompt-quicker/script.user.js
 
 ## TDOO
 
