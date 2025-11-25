@@ -4,7 +4,7 @@
         "insertButton": "ms-run-button button"
     },
     "gemini": {
-        "promptInput": "div[aria-label=\"Enter a prompt here\"]",
-        "insertButton": "button[aria-label=\"Deselect Image\"]"
+        "promptInput": "div.ql-editor[contenteditable=\"true\"]",
+        "insertButton": "button.toolbox-drawer-item-deselect-button"
     }
 }

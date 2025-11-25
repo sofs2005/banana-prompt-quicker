@@ -211,7 +211,7 @@ class GeminiAdapter {
     }
 
     async findPromptInput() {
-        let el = document.querySelector('div[aria-label="Enter a prompt here"]')
+        let el = document.querySelector('div.ql-editor[contenteditable="true"]')
         if (el) {
             return el
         }
@@ -222,7 +222,7 @@ class GeminiAdapter {
     }
 
     async findClosestInsertButton() {
-        let el = document.querySelector('button[aria-label="Deselect Image"]')
+        let el = document.querySelector('button.toolbox-drawer-item-deselect-button')
         if (el) {
             return el
         }
